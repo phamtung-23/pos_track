@@ -1,0 +1,29 @@
+[
+    {
+        "id": "6783773fdbb25",
+        "fullname": "Pha\u0323m T\u00f9ng Admin",
+        "email": "admin@gmail.com",
+        "password": "$2y$10$TyXgPJzjCZvlRoQ9\/CaNMOAu5Jua9uBbO7pm\/OpeDLth0\/jUgZSjq",
+        "phone": "0359663439",
+        "role": "admin",
+        "idTelegram": "6944007336"
+    },
+    {
+        "id": "6783773fdbb26",
+        "fullname": "Tu\u0300ng Pha\u0323m Shipper",
+        "email": "shipper@gmail.com",
+        "password": "$2y$10$TyXgPJzjCZvlRoQ9\/CaNMOAu5Jua9uBbO7pm\/OpeDLth0\/jUgZSjq",
+        "phone": "0359663439",
+        "role": "shipper",
+        "idTelegram": "6944007336"
+    },
+    {
+        "id": "6783773fdbb27",
+        "fullname": "Shipper test 1",
+        "email": "shipper1@gmail.com",
+        "password": "$2y$10$TyXgPJzjCZvlRoQ9\/CaNMOAu5Jua9uBbO7pm\/OpeDLth0\/jUgZSjq",
+        "phone": "0359663439",
+        "role": "shipper",
+        "idTelegram": "6944007336"
+    }
+]

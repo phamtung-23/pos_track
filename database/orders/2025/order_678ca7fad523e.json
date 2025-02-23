@@ -1,0 +1,18 @@
+{
+    "idOrder": "order_678ca7fad523e",
+    "itemName": "tung",
+    "customerName": "tung",
+    "weight": "12",
+    "deliveryPersonId": "6783773fdbb27",
+    "address": "a\u0301dfasf",
+    "status": "waiting_shipper_accept",
+    "createdBy": "6783773fdbb25",
+    "history": [
+        {
+            "status": "created",
+            "createdAt": "2025-01-19 08:21:30"
+        }
+    ],
+    "createdAt": "2025-01-19 08:21:30",
+    "updatedAt": "2025-01-19 08:21:30"
+}

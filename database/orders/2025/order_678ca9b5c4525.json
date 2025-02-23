@@ -1,0 +1,18 @@
+{
+    "idOrder": "order_678ca9b5c4525",
+    "itemName": "Watermelon 2",
+    "customerName": "Messi",
+    "weight": "12",
+    "deliveryPersonId": "6783773fdbb26",
+    "address": "Q5",
+    "status": "waiting_shipper_accept",
+    "createdBy": "6783773fdbb25",
+    "history": [
+        {
+            "status": "created",
+            "createdAt": "2025-01-19 08:28:53"
+        }
+    ],
+    "createdAt": "2025-01-19 08:28:53",
+    "updatedAt": "2025-01-19 08:28:53"
+}

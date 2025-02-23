@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Chiều cao tối thiểu bằng chiều cao của viewport */
+}
+
+main {
+    flex: 1; /* Chiếm toàn bộ phần còn lại của màn hình */
+}
+
+#sticky-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #343a40; /* Màu nền đen */
+    color: #ffffff; /* Màu chữ trắng */
+    z-index: 1030;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    border-radius: 10px !important;
+}
+
+#adminTable {
+    border: 1px solid #dbdbdb;
+}
